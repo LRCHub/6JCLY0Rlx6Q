@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "シャット･アップ･アンド･ダンス",
+  "base_artist": "Walk The Moon",
+  "createdAt": "2026-02-07T06:03:12.322929Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Shut Up And Dance",
+      "artist": "Walk The Moon",
+      "has_synced": false,
+      "path": "select/pl_01_Shut_Up_And_Dance_Walk_The_Moon.txt"
+    }
+  ]
+}
