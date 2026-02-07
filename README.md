@@ -1,0 +1,51 @@
+# Walk The Moon – シャット･アップ･アンド･ダンス
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+oh don't you dare look back
+just keep your eyes on me
+I said "you're holding back"
+she said "SHUT UP AND DANCE with me"
+this woman is my destiny
+she said "oo oo!
+SHUT UP AND DANCE with me"
+we were victims of the night
+the chemical physical kryptonite
+helpless to the boss and the fading light
+we were bound to get together,
+bound to get together
+she took my arm
+I don't know how it happened
+we took the floor and she said...
+oh don't you dare look back
+just keep your eyes on me
+I said "you're holding back"
+she said "SHUT UP AND DANCE with me"
+this woman is my destiny
+she said "oo oo!
+SHUT UP AND DANCE with me"
+a backless dress and some beat-up sneaks
+my discotech Juliet teenage dream
+I felt it in my chest as she looked at me
+I knew - we were bound to be together,
+bound to be together
+she took my arm
+I don't know how it happened
+we took the floor and she said...
+oh don't you dare look back
+just keep your eyes on me
+I said "you're holding back"
+she said "SHUT UP AND DANCE with me"
+this woman is my destiny
+she said "oo oo!
+SHUT UP AND DANCE with me..."
+oh c'mon girl!
+deep in her eyes
+I think I see the future
+I realize
+this is my last chance
+she took my arm
+I don't know how it happened
+we took the floor and she said...
+```
